@@ -1,0 +1,6 @@
+{
+  "name": "Dashcam Pro",
+  "description": "Complete, production-grade AI-powered Dashcam application featuring drowsiness detection, route tracking, and SOS triggers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
